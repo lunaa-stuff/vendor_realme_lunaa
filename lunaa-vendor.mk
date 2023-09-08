@@ -941,4 +941,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     manifest_oplusSensor_aidl \
-    manifest_oplus_fingerprint
+    manifest_oplus_fingerprint \
+    HotwordEnrollmentOKGoogleHEXAGON \
+    HotwordEnrollmentXGoogleHEXAGON \
+    com.android.hotwordenrollment.common.util
